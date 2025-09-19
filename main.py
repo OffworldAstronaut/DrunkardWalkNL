@@ -1,6 +1,6 @@
 from network import Network
 import numpy as np
-import matplotlib.pyplot as plt  # Add this import
+import matplotlib.pyplot as plt
 
 N = 8
 
